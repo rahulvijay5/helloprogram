@@ -1,0 +1,27 @@
+{
+  "name": "nolorem",
+  "version": "1.0.1",
+  "description": "Replace lorem ipsum with some meaningful text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulvijay5/nolorem.git"
+  },
+  "keywords": [
+    "lorem",
+    "randomwords",
+    "nolorem",
+    "placeholder",
+    "text",
+    "generator"
+  ],
+  "author": "rahulvijay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulvijay5/nolorem/issues"
+  },
+  "homepage": "https://github.com/rahulvijay5/nolorem#readme"
+}
